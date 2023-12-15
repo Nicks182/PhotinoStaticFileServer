@@ -6,7 +6,22 @@ This little project shows how to embed the html, script, css, and other asset fi
 
 In this example we will be using the Photino.NET.Server nuget package. This will create a dot net web server which will serve up our HTML, script, and CSS files Embedded in our exe.
 
-## The How
+### See how to embed files without the file server here:
+
+https://github.com/Nicks182/PhotinoEmbeddedFiles
+
+### Official Photino Info
+
+Photino samples:
+https://github.com/tryphotino/photino.Samples
+
+Static File Server source code:
+https://github.com/tryphotino/photino.NET.Server
+
+
+
+
+# The How
 ### 1. Create a new project
 
 Start by creating a new simple Console Application. I’m using DotNet 8.0, but you can use 7.0 if you prefer. I also ticked the “Do not use top-level statements” under Additional Information, but you don’t have to.
